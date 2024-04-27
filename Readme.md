@@ -65,7 +65,7 @@ Cuando definimos un objeto, tenemos que indicar el tipo (que no es ni un int, ni
 #### Ejemplo de clase
 
 
-<img src="image01.png" alt="Diagrama UML de la Clase Vehicle" width="300">
+<img src="../JavaEasyCoders/JavaEasyCorders/image01.png" alt="Diagrama UML de la Clase Vehicle" width="300">
 
 #### Descripción de la Clase Vehicle
 
@@ -85,7 +85,7 @@ La clase `Vehicle` se utiliza para modelar vehículos con atributos como tipo, c
 
 Podemos tener instancias de la clase Vehicle. Algunas podrían ser Car, Van...
 
-<img src="image02.png" alt="Diagrama UML de la Clase Vehicle" width="300">
+<img src="../JavaEasyCoders/JavaEasyCorders/image02.png" alt="Diagrama UML de la Clase Vehicle" width="300">
 
 ### Planteamiento del problema y resolución
 
