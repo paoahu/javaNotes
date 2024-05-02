@@ -36,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "develop",
-    "last_opened_file_path": "/Users/annacuencabocanegra/Desktop/UOC/DPOO/IdeaProjects/javaNotes/Lessons/01 Primer Programa Java",
+    "last_opened_file_path": "/Users/annacuencabocanegra/Desktop/UOC/DPOO/IdeaProjects/javaNotes/Lessons",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,9 +52,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lessons" />
       <recent name="$PROJECT_DIR$/Lessons/01 Primer Programa Java" />
       <recent name="$PROJECT_DIR$/Lessons/00 Introduction" />
-      <recent name="$PROJECT_DIR$/Lessons" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -92,7 +92,7 @@
       <workItem from="1713935660685" duration="5017000" />
       <workItem from="1713979126699" duration="2441000" />
       <workItem from="1714202847106" duration="599000" />
-      <workItem from="1714671417698" duration="1067000" />
+      <workItem from="1714671417698" duration="1400000" />
     </task>
     <servers />
   </component>
