@@ -22,6 +22,25 @@ Cada palabra clave cumple un propósito específico en Java, desde definir tipos
 
 Las variables son ubicaciones de almacenamiento nombradas en la memoria, donde los programadores pueden almacenar, modificar y recuperar datos. Se definen con un tipo de dato específico, que dicta el tipo de datos que la variable puede contener y las operaciones que se pueden realizar sobre ella.
 
+#### Almacenamiento de Variables en Memoria
+
+En Java, entender cómo se almacenan las variables en la memoria es crucial para gestionar eficientemente los recursos y optimizar el rendimiento del programa.
+
+##### Stack y Heap en Java
+
+Java utiliza principalmente dos áreas de memoria para almacenar datos durante la ejecución del programa: el Stack y el Heap.
+
+- **Stack:** Esta área de memoria almacena variables primitivas y las referencias a objetos. Las variables almacenadas en el stack son temporales y se eliminan una vez que se completa la ejecución del bloque de código o la función donde se declaran.
+
+- **Heap:** Aquí es donde se almacenan todos los objetos creados, así como las instancias de clases. A diferencia del stack, el heap no libera automáticamente los objetos una vez que la función termina, lo cual está manejado por el Garbage Collector de Java, que es un proceso que automatiza la gestión de la memoria eliminando objetos que ya no son accesibles.
+
+##### Variables Primitivas vs. Referencias a Objetos
+
+- **Variables Primitivas:** Cuando declaras una variable primitiva, Java almacena el valor directamente en la memoria del stack. Por ejemplo:
+
+  ```java
+  int numero = 30;  // Almacenado directamente en el stack.
+
 #### Ejemplo de Declaración y Asignación de Variables
 
 Para declarar y asignar una variable entera llamada `edad`, puedes usar el siguiente código Java:
