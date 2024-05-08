@@ -100,3 +100,4 @@ int miEdad = 30;         // Declara y asigna `miEdad`
 miEdad = 65;             // Modifica `miEdad`
 System.out.println(miEdad);  // Imprime el valor de `miEdad`
 ```
+
