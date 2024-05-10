@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c396600-1f48-454f-a070-22604aada1f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons/04 Variables y Expresiones en Java/teoria04.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/03 Variables/TeoriaVariables.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/03 Variables/TeoriaVariables.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715091661852</updated>
-      <workItem from="1715091663275" duration="8699000" />
+      <workItem from="1715091663275" duration="9813000" />
     </task>
     <servers />
   </component>
