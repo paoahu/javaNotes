@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c396600-1f48-454f-a070-22604aada1f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons/05 Tipos de Datos Primitivos en Java/Teoria05.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/05 Tipos de Datos Primitivos en Java/Teoria05.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/05 Tipos de Datos Primitivos en Java/Teoria05.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715091661852</updated>
       <workItem from="1715091663275" duration="9813000" />
-      <workItem from="1715374899060" duration="710000" />
+      <workItem from="1715374899060" duration="1590000" />
     </task>
     <servers />
   </component>
