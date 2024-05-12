@@ -9,7 +9,7 @@ En Java hay 8 tipo de datos primitivos que son: byte, short, int, long, float, d
 - Byte: es un entero de 8 bits con signo
 - Short: es un entero de 16 bits con signo
 - Int: es un entero de 32 bits con signo
-- Long:
+- Long: es un entero de 64 bits con signo
 - Float:
 - Double:
 - Char:
