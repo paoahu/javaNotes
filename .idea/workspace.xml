@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c396600-1f48-454f-a070-22604aada1f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lessons/03 Estructura Basica de un programa/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/03 Estructura Basica de un programa/EstructuraBasicaPrograma03Teoria.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/03 Estructura Basica de un programa/Teoria03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/03 Estructura Basica de un programa/image14.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/03 Variables/Ejercicios03.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/03 Estructura Basica de un programa/Ejercicios03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/03 Variables/TeoriaVariables.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/03 Estructura Basica de un programa/TeoriaVariables.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/03 Variables/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/03 Estructura Basica de un programa/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/03 Variables/variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/04 Variables y Expresiones en Java/teoria04.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/05 Variables/teoria04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/05 Tipos de Datos Primitivos en Java/Teoria05.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +30,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/annacuencabocanegra/Desktop/UOC/DPOO/IdeaProjects/javaNotes/Lessons/03 Variables&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/annacuencabocanegra/Desktop/UOC/DPOO/IdeaProjects/javaNotes/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "/Users/annacuencabocanegra/Desktop/UOC/DPOO/IdeaProjects/javaNotes/Lessons/03 Estructura Basica de un programa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/annacuencabocanegra/Desktop/UOC/DPOO/IdeaProjects/javaNotes/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lessons/03 Estructura Basica de un programa" />
       <recent name="$PROJECT_DIR$/Lessons/03 Variables" />
     </key>
   </component>
@@ -64,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715091661852</updated>
       <workItem from="1715091663275" duration="9813000" />
-      <workItem from="1715374899060" duration="2512000" />
+      <workItem from="1715374899060" duration="6768000" />
     </task>
     <servers />
   </component>
