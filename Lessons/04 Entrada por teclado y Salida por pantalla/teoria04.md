@@ -47,3 +47,14 @@ System.out.printf("Hola|%-4d|", 53); //Hola|53  |" -> 53 ocupa 4 posiciones y es
 ```
 
 Respecto al salto de línea, este método funciona exactamente igual que print, no avanza el cursor en la línea siguiente. Así que si queremos hacer el salto, tenemos que añadir \n al final del texto.
+
+### 4.2 MÉTODOS DE ENTRADA
+Como ya hemos comentado, por defecto, el flujo de entrada proviene del teclado. En JDK 5 se introdujo una clase llamada ```Scanner``` que facilita la lectura con el formato del teclado. De esta manera, con ```Scanner``` podremos controlar, de manera sencilla, si queremos leer un ```int``` , un ```double``` , etc.
+
+```
+Scanner in = new Scanner(System.in); //Objeto Scanner que lee de teclado
+int number = in.nextIn(); // espera recibir un int, en caso contrario lanza una excepción
+double decimal = in.nextDouble(); //espera recibir un double, en caso contrario lanza una excepción
+String word = in.next(); //lee un texto hasta llegar al primer espacio
+String text = in.nextLine(); //lee un texto hasta llegar al primer salto de línea (incluye espacios en blanco)
+in.Close(); //Cerramos el flujo (stream)
