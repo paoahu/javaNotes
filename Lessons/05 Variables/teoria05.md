@@ -28,3 +28,37 @@ class      finally    long         strictfp    volatile
 const      float      native       super       while
 ```
 ### 5.2 Tipo
+Como hemos comentado, las variables serán de un tipo. En Java, hay dos tipos: primitivos y referencias. Los **primitivos** (o básicos) sirven para almacenar valores sencillos, mientras que las **referencias** se utilizan para guardar elementos complejos, como ahora los objetos de una clase. 
+
+**Primitivos**
+En Java hay ocho tipos de primitivos/básicos.
+
+![Captura de pantalla](tabla.png "Vista de la imagen tabla")
+
+**Unicode** 
+El código Unicode es un estándard de la informática para representar texto. Incluye alfabetos, símbolos y elementos especiales.
+
+Para declarar una variable seguiremos uno de los patrones siguientes (y combinaciones de ellos):
+
+```
+type nameVari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
